@@ -2,6 +2,27 @@
 <h3 align="center">A passionate backend developer from Bangladesh</h3>
 
 ![I am GitHub Readme Generator's creator](https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/438262883_1645190719554887_3496862411779121921_n.jpg?stp=c0.23.206.206a_dst-jpg_p206x206&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEOo1VTwgDgLQLzLWsffkZSLkM2PzTrgQcuQzY_NOuBByCHWqZ6xdT3XD4vP3_o6R2tgVN22d5ckzURMUUFhZWk&_nc_ohc=am3xV9RPD7sQ7kNvgHo0L9b&_nc_ht=scontent.fdac41-1.fna&oh=00_AYDvgLkRxiZJAzbAvydFsTg5TZGYNqjUkvV3r63D5qsDjg&oe=664C1AFF)
+This repository contains the projects and contributions of mine, I am a skilled Django developer with a passion for creating robust web applications. My expertise lies in crafting efficient and scalable solutions using the Django framework, along with integrating various technologies to build dynamic and user-friendly applications.
+
+Projects:
+
+E-commerce Platform: A fully functional e-commerce platform built with Django, featuring user authentication, product management, shopping cart functionality, and secure payment gateways.
+
+Blog Application: A customizable blog application developed using Django, allowing users to create, edit, and publish blog posts with rich text formatting, image uploads, and comment sections.
+
+Task Management System: A task management system designed to streamline workflow processes within organizations. It includes features such as task assignment, progress tracking, deadline management, and user notifications.
+
+Social Media Dashboard: An interactive dashboard for monitoring social media metrics and analytics. Built with Django and integrated with APIs of popular social media platforms, it provides insights into user engagement, post performance, and audience demographics.
+
+Contributions:
+
+Django Framework: Contributions to the Django framework itself, including bug fixes, documentation enhancements, and feature developments. Rejone actively participates in the Django community to improve the framework for all users.
+
+Open Source Projects: Contributions to various open-source projects related to Django ecosystem, such as Django REST framework, Django CMS, and Django Allauth. These contributions range from code contributions to issue triaging and documentation updates.
+
+Stack Overflow: Active participation on Stack Overflow, providing assistance to fellow developers by answering questions related to Django development, troubleshooting issues, and sharing best practices.
+
+Technical Blogging: Regularly publishes technical articles and tutorials on Django development practices, tips, and tricks. These articles serve as a valuable resource for the Django community, helping developers enhance their skills and understanding of the framework.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rejonehossen&label=Profile%20views&color=0e75b6&style=flat" alt="rejonehossen" /> </p>
 
