@@ -31,7 +31,7 @@ Technical Blogging: Regularly publishes technical articles and tutorials on Djan
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rejonehossen" alt="rejonehossen" /></a> </p>
 
-- 🌱 I’m currently learning **Django, WADP,**
+- 🌱 I’m currently learning **JavaScript,**
 
 - 💬 Ask me about **HTML, Django, Python**
 
