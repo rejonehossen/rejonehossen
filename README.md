@@ -1,88 +1,96 @@
+<!-- Stylish Hero Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FFD700&height=250&section=header&text=Rejone%20Hossen%20👨‍💻&fontSize=50&fontColor=fff" alt="hero banner"/>
+</p>
 
 <h1 align="center">Hi there 👋, I'm Rejone Hossen</h1>
+<h3 align="center">🇧🇩 Django Developer | Backend Specialist | API Craftsman | UI-Driven Coder</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gold&height=200&section=header&text=Rejone%20Hossen&fontSize=40&fontAlignY=35&desc=Full%20Stack%20Django%20Developer%20from%20Bangladesh&descAlignY=60&descAlign=60"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FAD02C&center=true&vCenter=true&multiline=true&lines=Full+Stack+Django+Developer;REST+API+Expert+%7C+DRF+%7C+JWT;Frontend+with+HTML5+%7C+Bootstrap5+%7C+JS;Clean+%2F+Minimal+Design+Lover"/>
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-I'm **Rejone Hossen**, a passionate Django developer from **Bangladesh**, focused on building scalable web applications with elegant UI and secure backend systems.
-
-- 💼 Backend: Django, Django REST Framework (DRF), JWT Authentication
-- 🎨 Frontend: HTML5, CSS3, Bootstrap5, JavaScript
-- 🗃️ Databases: PostgreSQL, SQLite
-- 🚀 Deployment: Heroku, Railway, Vercel
-- 💬 Love contributing to the Django community and writing helpful tech blogs
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/DRF-red?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=rejonehossen&label=Visitors&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" alt="markdown badge"/>
 </p>
 
 ---
 
-## 🔥 Highlight Projects
-
-- 🛍️ **E-commerce Store** – Full-featured Django e-commerce backend + cart + order system
-- ✍️ **Blog Platform** – RESTful API-driven blogging system with custom admin panel
-- ✅ **Task Manager** – JWT-secured To-Do API with drag-and-drop frontend
-- 📊 **Social Dashboard** – Analytics dashboard with live charts, filters & role-based access
-
----
-
-## 🌍 Community & Contribution
-
-- 💡 Actively contributing to open-source Django plugins
-- 🧠 Sharing tips & code snippets on [Stack Overflow](https://stackoverflow.com/users/)
-- ✍️ Blogging on Django REST topics and best practices
-
----
-
-## 📊 GitHub Stats
+### 🧰 My Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rejonehossen&theme=radical"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens"/>
+  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+</p>
+
+---
+
+### 🚀 About Me
+
+- 💼 I specialize in building secure and scalable **Django backends**.
+- 🧠 Skilled in **REST APIs**, **JWT Authentication**, and advanced DRF patterns.
+- 💡 Frontend-friendly: experienced with **HTML5, Bootstrap5, CSS3**, and **JavaScript**.
+- 🛠️ Passionate about **clean code**, **reusability**, and **elegant UIs**.
+- 🌍 Based in **Bangladesh**, open to global collaborations.
+
+---
+
+### 🌟 Featured Projects
+
+- 🛒 **E-Commerce Backend** with Stripe Integration, Order Management, and Dashboard.
+- 📝 **Blog Platform** with Markdown, JWT Auth, Admin Panel, and User Profiles.
+- ✅ **Task Manager** with real-time filters, multi-user support, and RESTful API.
+- 📊 **Social Media Dashboard** with activity logs, charts, and analytics.
+
+> _Visit my GitHub Repositories to explore more!_
+
+---
+
+### 🤝 Community & Contributions
+
+- 🧩 Contributing to **open-source Django libraries**.
+- 🗨️ Active on **Stack Overflow**, helping the Django and Python community.
+- ✍️ Occasionally write blogs about Django, REST APIs, and deployment.
+
+---
+
+### 🎨 UI Inspiration
+
+> Premium feel inspired by Apple 🍏, Tesla 🚗, Shopify 🛍️  
+> Soft-glass aesthetics with subtle **Glassmorphism & Neumorphism** touches.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rejonehossen&show_icons=true&theme=tokyonight&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rejonehossen&layout=compact&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=rejonehossen&show_icons=true&theme=highcontrast"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rejonehossen&style=flat-square&color=gold" alt="Profile views" />
 </p>
 
 ---
 
-## 📬 Contact Me
+### 📬 Let's Connect
 
 <p align="center">
-  <a href="mailto:rejonehossen.dev@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/rejonehossen"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/rejonehossen"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:rejonehossen@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rejonehossen"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/rejonehossen"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-> ⚡ _Clean Code. Clear Purpose. Creative Design._
->
-> _Inspired by Apple, Tesla & Shopify's simplicity with power._
+<p align="center">🖤 Designed with passion | Powered by Python 🐍 | Coded by Rejone Hossen 🇧🇩</p>
+
+
 
 #Previous
 
