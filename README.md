@@ -74,6 +74,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rejonehossen&show_icons=true&theme=tokyonight&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rejonehossen&layout=compact&theme=tokyonight"/>
+
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rejonehossen&theme=highcontrast&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727&currStreakLabel=FFB000&ring=FFD700&sideNums=FFFFFF&sideLabels=FFD700&background=000000"
+    alt="GitHub Streak Stats"
+    width="90%"
+  />
+
+
 </p>
 
 
@@ -112,7 +120,6 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rejonehossen&" alt="rejonehossen" /></p>
 
 ---
 
