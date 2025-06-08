@@ -62,12 +62,6 @@
 
 ---
 
-### 🎨 UI Inspiration
-
-> Premium feel inspired by Apple 🍏, Tesla 🚗, Shopify 🛍️  
-> Soft-glass aesthetics with subtle **Glassmorphism & Neumorphism** touches.
-
----
 
 ### 📊 GitHub Stats
 
@@ -117,10 +111,10 @@
   <a href="https://linkedin.com/in/rejonehossen" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://fb.com/rejone10" target="_blank">
+  <a href="https://fb.com/iamrejone" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/rejonehossen10" target="_blank">
+  <a href="https://instagram.com/iamrejonehossen" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://www.youtube.com/@rejonehossen" target="_blank">
